@@ -1,5 +1,5 @@
 <script setup>
-import { ref, watch, reactive, computed } from "vue";
+import { ref,  reactive} from "vue";
 import PricingCard from "../components/PricingCard.vue";
 import { useDark, useToggle } from "@vueuse/core";
 import { Icon } from "@iconify/vue";
